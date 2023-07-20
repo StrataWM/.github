@@ -1,5 +1,10 @@
-<h1 align=center>Strata</h1>
-<h3 align=center>A modular, dynamic and sleek Wayland compositor written in Rust</h3>
+<p align="center">
+  <h1 align="center">Strata</h1>
+  <p align="center">
+    <img src="https://github.com/StrataWM/.github/blob/main/assets/strata_logo.png" style="width: 25%;"></img>
+    <h3 align="center">A Modular, Sleek and Dynamic Wayland Compositor with batteries included!</h3>
+  </p>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/stratawm/stratawm?style=for-the-badge"/>
