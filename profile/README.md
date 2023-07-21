@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="https://github.com/stratawm/.github/blob/profile/profile_banner.png></img>
+    <img src="https://github.com/stratawm/.github/blob/profile/profile_banner.png"></img>
 </p>
 
 <p align="center">
