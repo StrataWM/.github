@@ -1,5 +1,6 @@
-<h1 align=center>Strata</h1>
-<h3 align=center>A modular, dynamic and sleek Wayland compositor written in Rust</h3>
+<p align=center>
+    <img src="https://github.com/stratawm/.github/blob/profile/profile_banner.png></img>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/stratawm/stratawm?style=for-the-badge"/>
@@ -17,3 +18,4 @@ Strata is a dynamic and sleek Wayland compositor and window manager for GNU/Linu
 ```
 
 This makes it possible so that you can interchange components, for example, instead of using [Kagi](https://github.com/stratawm/kagi), the official Strata hotkey daemon, you can use something like SWHKD or even make your own. As Strata grows in complexity, this architecture will, hopefully, prove to be useful.
+
